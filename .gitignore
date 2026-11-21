@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 logs/
 state.json
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
